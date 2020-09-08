@@ -1,0 +1,35 @@
+Blacklisted URLs
+------------------------------
+Should they become available to scrape in future, please remove them from the src code.
+Otherwise, do not remove as it will break the software.
+
+prohibitedURL : URls not available for scrapping
+prohibitedItems : Sub-categories not available for scrapping
+
+prohibitedURL = ["https://www.streetdirectory.com/businessfinder/product_listing.php?q=real+estate&by=product",
+                         "https://www.streetdirectory.com/businessfinder/",
+                         "https://www.streetdirectory.com/restaurant/",
+                         "https://www.streetdirectory.com/industrial/",
+                         "https://www.streetdirectory.com/businessfinder/business/",
+                         "https://www.streetdirectory.com/medical/",
+                         "https://www.streetdirectory.com/automotive/",
+                         "https://www.streetdirectory.com/yoshinoya",
+                         "https://www.streetdirectory.com/Starbucks",
+                         "https://www.streetdirectory.com/pizzahut",
+                         "https://www.streetdirectory.com/canadian/",
+                         "https://www.streetdirectory.com/ritepizza"
+                         ]
+        prohibitedItems = ["",
+                           "American Coffee",
+                           "Local Coffee",
+                           "American",
+                           "Japanese",
+                           "Sandwiches",
+                           "Nose",
+                           "Throat",
+                           "Medical Equipment and Supplies",
+                           "TCM and Family Medical",
+                           "Alphabetical Search for",
+                           "Buses",
+                           "General Information"
+                           ]

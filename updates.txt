@@ -1,0 +1,16 @@
+Version 1.0
+------------------------------
+~ Base version
+
+Version 1.1
+------------------------------
+~ Bug fixed :
+	~ Scraping error towards certain sub-categories
+~ Fine tuned scrapping results
+~Blacklisted certain URLs
+
+Version 1.1
+------------------------------
+~ Updated log file to capture errors better
+~ Updated PopUp method(no longer require scaling of screen to 100%)
+~ Updated chromedriver file path
